@@ -71,7 +71,7 @@ const AddPost = () => {
                             <label htmlFor="">
                                 <input type="radio"/>
                                 <span>USD</span>
-                            </label>>
+                            </label>
                         </div>
                     </div>
                 </div>
