@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "email": "Ars@mail.ru",
+      "password": "$2a$10$NcoLcjIer/12POaMOxFBIucGCkVQTInWTEVQTbuCNQzu8QwoCyhKq",
+      "name": "Ars",
+      "balance": 1000,
+      "avatar": "",
+      "products": [],
+      "id": 1
+    },
+    {
+      "email": "ArsMyName@mail.ru",
+      "password": "$2a$10$8FEQbpvabyct7DK33FZi.eeDEbG9JpFAPJ0YXV4YVLK8nvTl0K4B.",
+      "name": "Ars",
+      "balance": 1000,
+      "avatar": "",
+      "products": [],
+      "id": 2
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "price": 1000,
+      "image": "https://itechh.kz/image/catalog/13iphone/30059042bb.jpg",
+      "title": "Iphone 13 Pro",
+      "descr": "Новый, запечатанный",
+      "color": "Белый"
+    },
+    {
+      "id": 2,
+      "price": 2000,
+      "image": "https://assets-prd.ignimgs.com/2022/01/10/m1-macbook-pro-1-1641858021340.jpeg",
+      "title": "MacBook Pro M1",
+      "descr": "Новый, запечатанный",
+      "color": "Серый"
+    },
+    {
+      "id": 3,
+      "price": 500,
+      "image": "https://www.zdnet.com/a/img/resize/ba00ec71e707b7b8c26af21b00c6eb1971e77bec/2021/11/02/3fb8411f-1bcc-47cd-99e2-bb3fb393f34b/apple-watch-series-7-3.jpg?auto=webp&fit=crop&height=900&width=1200",
+      "title": "Apple Watch Series 7",
+      "descr": "Новый, запечатанный",
+      "color": "Синий"
+    },
+    {
+      "id": 4,
+      "price": 300,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/10/RT/QY/CR/123338017/whatsapp-image-2021-10-17-at-9-39-53-am-1--500x500.jpeg",
+      "title": "Airpods Pro 7",
+      "descr": "Новый, запечатанный",
+      "color": "Белый"
+    }
+  ]
+}
