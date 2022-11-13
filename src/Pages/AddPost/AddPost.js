@@ -81,7 +81,7 @@ const AddPost = () => {
                     <Select list={[1.8, 2.5, 4.4, 5.5]} title='объем двигателя'/>
                 </div>
                 <div className='dynamicBlockAnimals'>
-
+                    hello
                 </div>
             </div>
         </div>
